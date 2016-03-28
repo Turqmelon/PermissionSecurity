@@ -1,0 +1,5 @@
+name: PermissionSecurity
+author: Turqmelon
+version: 1.0
+main: com.turqmelon.PermissionSecurity.PermSecurity
+description: Enforces strict security on permission elevation.

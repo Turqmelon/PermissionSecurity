@@ -1,0 +1,7 @@
+flagged-commands:
+- pex
+- user
+- group
+- op
+- deop
+security-word: CHANGEME
