@@ -7,7 +7,7 @@ PermissionSecurity listens to console and player commands. Flagged commands will
 PermissionSecurity listens to player and console commands, looking for your configured "flagged commands". When a flagged command is detected, PermissionSecurity will check to see if the required security word is present at the end. If it's not, the command will be rejected.
 
 ### Who is this for?
-This is for servers that run many public plugins. With the increase of malicious plugins that execute commands on behalf of comnsole, this attempts to protect you from damage from said plugins.
+This is for servers that run many public plugins. With the increase of malicious plugins that execute commands on behalf of console, this attempts to protect you from damage from said plugins.
 
 **It's important to note,** this is no substitute to being careful with what you install. Never install plugins from sources you don't trust.
 
