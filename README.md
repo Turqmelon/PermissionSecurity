@@ -1,6 +1,8 @@
 # PermissionSecurity
 PermissionSecurity listens to console and player commands. Flagged commands will require an extra layer of validation.
 
+[Download from Spigot](https://www.spigotmc.org/resources/permissionsecurity.20815/)
+
 ### What is it?
 PermissionSecurity listens to player and console commands, looking for your configured "flagged commands". When a flagged command is detected, PermissionSecurity will check to see if the required security word is present at the end. If it's not, the command will be rejected.
 
